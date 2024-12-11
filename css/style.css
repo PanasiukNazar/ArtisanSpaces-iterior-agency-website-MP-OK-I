@@ -635,6 +635,12 @@ blockquote {
     padding: 0 15px;
 }
 
+@media (max-width: 772px) {
+    h2 {
+        font-size: 20px !important;
+    }
+}
+
 /* Main navigation */
 
 .navbar {
